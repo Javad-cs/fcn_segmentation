@@ -8,7 +8,7 @@ This project implements semantic segmentation using Fully Convolutional Networks
 ```text
 fcn_segmentation/
 ├── Image Segmentation using Fully Convolutional Networks (FCNs).ipynb  # Main notebook
-├── requirements.txt                 # Python dependencies (optional)
+├── requirements.txt                 # Python dependencies
 ├── README.md                        # Project documentation
 ```
 
