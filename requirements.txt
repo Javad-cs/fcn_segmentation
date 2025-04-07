@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+Pillow
+easydict
+tensorboard
+git+https://github.com/lucasb-eyer/pydensecrf.git
